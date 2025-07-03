@@ -1,0 +1,2 @@
+include ../CubeOrange/hwdef.dat
+define AP_CUSTOM_FIRMWARE_STRING "VertiPlane OS"
