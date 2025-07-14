@@ -9,7 +9,6 @@
 
 #define AP_MOTORS_MATRIX_YAW_FACTOR_CW   -1
 #define AP_MOTORS_MATRIX_YAW_FACTOR_CCW   1
-#define AP_MOTORS_MATRIX_SCRIPTING_ENABLED 1
 
 /// @class      AP_MotorsMatrix
 class AP_MotorsMatrix : public AP_MotorsMulticopter {

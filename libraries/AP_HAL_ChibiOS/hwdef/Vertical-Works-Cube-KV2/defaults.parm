@@ -37,7 +37,7 @@ NTF_DISPLAY_TYPE 1  # Enable SSD1306 Display
 
 # Quadplane Related Parameters
 Q_ENABLE 1          # Enables Quadplane
-Q_FRAME_CLASS 7     # Tricopter Frame Type
+Q_FRAME_CLASS 15    # Custom Frame Scripting Matrix
 Q_FRAME_TYPE 19     # Y4 Frame Type
 Q_TILT_ENABLE 1     # Enable Tilt Rotor
 Q_TILT_MASK 3
