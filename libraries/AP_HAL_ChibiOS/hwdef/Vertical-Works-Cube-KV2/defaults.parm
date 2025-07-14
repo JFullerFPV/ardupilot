@@ -1,6 +1,9 @@
 # Enable Scripting
 SCR_ENABLE 1
 
+# Terrain Spacing
+TERRAIN_SPACING 30
+
 # Battery Monitor
 BATT_MONITOR 4
 BATT_AMP_PERVLT 39.877
